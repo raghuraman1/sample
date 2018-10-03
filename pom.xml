@@ -40,8 +40,8 @@
 			</plugin>
 			<!-- Needed to create swagger bits in asynch manner -->
 			<plugin>
-				<groupId>io.swagger</groupId>
-				<artifactId>swagger-codegen-maven-plugin</artifactId>
+				<groupId>org.openapitools</groupId>
+				<artifactId>openapi-generator-maven-plugin</artifactId>
 				<version>${swagger.codegen.version}</version>
 				<executions>
 					<execution>
