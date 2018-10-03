@@ -12,7 +12,7 @@
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<springfox-version>2.7.0</springfox-version>
-		<swagger.codegen.version>3.3.1-SNAPSHOT</swagger.codegen.version> 
+		<openapi.codegen.version>3.3.1-SNAPSHOT</openapi.codegen.version> 
 
 		<jetty-version>9.2.15.v20160210</jetty-version>
 		<slf4j-version>1.7.21</slf4j-version>
@@ -42,7 +42,7 @@
 			<plugin>
 				<groupId>org.openapitools</groupId>
 				<artifactId>openapi-generator-maven-plugin</artifactId>
-				<version>${swagger.codegen.version}</version>
+				<version>${openapi.codegen.version}</version>
 				<executions>
 					<execution>
 						<id>common</id>
