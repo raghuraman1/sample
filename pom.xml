@@ -59,7 +59,6 @@
 							<basePackage>com.example.api</basePackage>
 							<withXml>true</withXml>
 							<configOptions>
-							
 								<artifactId>foo</artifactId>
 								<artifactDescription>Test API</artifactDescription>
 								<title>Test API</title>
