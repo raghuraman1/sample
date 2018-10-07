@@ -53,8 +53,9 @@
 							<inputSpec>${project.basedir}/src/main/resources/api.yaml</inputSpec>
 							<modelPackage>com.example.api.models</modelPackage>
 							<apiPackage>com.example.api</apiPackage>
-							<output>${project.basedir}</output>					
-							<language>spring</language>
+							<output>${project.basedir}</output>	
+							<generatorName>spring</generatorName>				
+<!-- 							<language>spring</language> -->
 							<invokerPackage>com.example.api</invokerPackage>
 							<basePackage>com.example.api</basePackage>
 							<withXml>true</withXml>
