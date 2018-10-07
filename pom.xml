@@ -55,7 +55,6 @@
 							<apiPackage>com.example.api</apiPackage>
 							<output>${project.basedir}</output>	
 							<generatorName>spring</generatorName>				
-<!-- 							<language>spring</language> -->
 							<invokerPackage>com.example.api</invokerPackage>
 							<basePackage>com.example.api</basePackage>
 							<withXml>true</withXml>
