@@ -1,0 +1,10 @@
+<!-- added manually -->
+        <dependency>
+        	<groupId>commons-io</groupId>
+        	<artifactId>commons-io</artifactId>
+        	<version>2.3</version>
+        </dependency>
+       <dependency>
+	        <groupId>com.fasterxml.jackson.dataformat</groupId>
+	        <artifactId>jackson-dataformat-yaml</artifactId>
+	        </dependency>
