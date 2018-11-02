@@ -5,3 +5,6 @@
 /.swagger-codegen-ignore
 /.swagger-codegen/
 /src/gen/
+/.openapi-generator-ignore
+/.springBeans
+/.openapi-generator/
